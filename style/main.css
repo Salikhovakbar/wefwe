@@ -1,0 +1,8 @@
+.btn_style{
+    padding: 20px !important;
+}
+.img_style{
+    width: 1200px !important;
+    height: 700px !important;
+    object-fit: cover;
+}
